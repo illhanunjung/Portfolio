@@ -25,7 +25,7 @@
 >HTML / CSS / Javascript / Ajax
 >Kakao Login API / PortOne API / Kakao Map API / 스마트택배 API
 >VGG16
->[프로젝트 상세 설명]() 참고
+> [프로젝트 상세 설명](https://github.com/illhanunjung/Hwado-final/blob/master/README.md) 참고
 #### `Front-End`
  - 포트폴리오 페이지
 #### `Back-end`
