@@ -21,11 +21,11 @@
 >개발 기간: 2024.01.08~2024.01.24
 >  
 >기술 스택:
->Java / Spring FrameWork / MySQL 8.5.26 / Python 3.9 / Flask / Tomcat / Mybatis
->HTML / CSS / Javascript / Ajax
->Kakao Login API / PortOne API / Kakao Map API / 스마트택배 API
->VGG16
-> [프로젝트 상세 설명](https://github.com/illhanunjung/Hwado-final/blob/master/README.md) 참고
+>Java / Spring FrameWork / MySQL 8.5.26 / Python 3.9 / Flask / Tomcat / Mybatis  
+>HTML / CSS / Javascript / Ajax  
+>Kakao Login API / PortOne API / Kakao Map API / 스마트택배 API  
+>VGG16  
+> [프로젝트 상세 설명](https://github.com/illhanunjung/Hwado-final/blob/master/README.md) 참고  
 #### `Front-End`
  - 포트폴리오 페이지
 #### `Back-end`
