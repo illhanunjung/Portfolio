@@ -13,8 +13,23 @@
 - 이메일: illhanungung0@gmail.com
 - 깃헙: https://github.com/illhanunjung
 
-</br>
 
+</br>
+## :pushpin: 수상
+### 공모전
+#### 1. [AI+콘텐츠 융합 아이디어 공모](https://www.gicon.or.kr/board.es?mid=a10201000000&bid=0001&act=view&list_no=29975)
+> AI 클라이밍 Helper GrabSafe (어플리케이션) - GrabIT (팀프로젝트)
+
+<details>
+<summary><b>기획안 펼치기</b></summary>
+<div markdown="1">
+ ![image](https://github.com/illhanunjung/Portfolio/assets/144203058/84fc6174-3de1-4f8c-b48c-7b7f90ccfedf)
+![image](https://github.com/illhanunjung/Portfolio/assets/144203058/001c797a-8afa-4977-ba1d-fe9209ec97ab)
+
+</div>
+</details>
+
+</br>
 ## :pushpin: Projects
 ### 1. [포트폴리오](https://github.com/illhanunjung/Hwado-final)
 >무명 예술가들을 위한 C2C 플랫폼 - 화도 (팀 프로젝트)  
@@ -49,22 +64,11 @@
 
 ### 2. [두 번째 프로젝트](https://github.com/JungHyung2/gitio.io)
 >두 번째 프로젝트 간략 소개  (팀 프로젝트)  
->개발 기간: 2020.7.18 ~ 2020.11.5  
+>개발 기간: 
 >  
 >기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
 >  
->[프로젝트 상세 설명](https://github.com/JungHyung2/gitio.io) 참고
+>[프로젝트 상세 설명]() 참고
 
 ---
 
-### 3. [세 번째 프로젝트](https://github.com/JungHyung2/gitio.io)
->세 번째 프로젝트 간략 소개  (개인 프로젝트)  
->개발 기간: 2018.1.18 ~ 2018.4.5  
->  
->기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
->  
->[프로젝트 상세 설명](https://github.com/JungHyung2/gitio.io) 참고
