@@ -114,7 +114,7 @@
 - 일정관리
 
 
-### 2. [두 번째 프로젝트]()
+### 2. [두 번째 프로젝트](https://github.com/illhanunjung/ReadFit/blob/master/README.md)
 - 프로젝트명: 자연어처리 기반 신발 리뷰분석 플랫폼 - 語시스턴트 (팀 프로젝트)
 - 개발 기간: 2024.03.14~2024.04.17(진행중)
 - 기술 스택: Java / Spring Boot / Python / Transformers / KoElectra / koGPT / react / node.js / pytorch / CSS / Ajax
