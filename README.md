@@ -10,23 +10,29 @@
 ## :pushpin: 교육이수
 ###  언어지능기반 분석서비스모델 개발자과정 (심화교육과정)
  - 기관: 스마트인재개발원
- - 기간: 2023.09.27 ~ 2024.04.17 7개월(1040시간)   
-[기본]  
+ - 기간: 2023.09.27 ~ 2024.04.17 7개월(1040시간)   \
+   <br>
+`기본` 
 기본 프로그래밍 언어 학습(Java, Python, Javascript 등) - Oracle, Mysql DBMS 사용가능
 - Git을 활용한 형상관리
 - 프로젝트 총 3회 수행  
-[모델링] - Python을 이용한 머신러닝 모델 제작 경험  
+<br>
+`모델링` - Python을 이용한 머신러닝 모델 제작 경험  
 - Keras 활용 딥러닝 모델 학습
 - 자연어 처리 모델 개발(자연어처리 기초, 딥러닝 기반 자연어처리 (RNN, LSTM 등), LLM이해
 (Transformer, Bert, GPT)  
-[클라우드 컴퓨팅] - 리눅스, AWS EC2 활용 서버 호스팅
+<br>
+`클라우드 컴퓨팅` - 리눅스, AWS EC2 활용 서버 호스팅
 - AWS기반 클라우드 서비스 모델 기반 CI/CD
 - MLOps, DEVOps 환경 구축  
-[웹페이지 기술(백엔드)] - JSP/Servlet을 이용한 웹페이지 개발 경험. - mybatis framework를 활용한
+<br>
+`웹페이지 기술(백엔드)` - JSP/Servlet을 이용한 웹페이지 개발 경험. - mybatis framework를 활용한
 JDBC 코드 활용. - Spring MVC, 전자정부표준프레임워크를 이용한 웹페이지 개발 경험.  
-[웹페이지 기술(프론트엔드)] - HTML/CSS/JS를 이용한 웹페이지 UX개발 경험. - JavaScript 이용한 이벤
+<br>
+`웹페이지 기술(프론트엔드)` - HTML/CSS/JS를 이용한 웹페이지 UX개발 경험. - JavaScript 이용한 이벤
 트 처리 및 데이터 처리 기능 구현. - 비동기 통신 처리는 Ajax 이용하여 구현  
-※ 기타 보유 기술  
+<br>
+`※ 기타 보유 기술`  
 - Oracle DB, MySQL 데이터베이스 활용 가능  
 
 ## :pushpin: Contact
