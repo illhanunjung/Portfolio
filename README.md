@@ -162,8 +162,8 @@
 - 프로젝트명: 자연어처리 기반 신발 리뷰분석 플랫폼 - 語시스턴트 (팀 프로젝트)
 - 개발 기간: 2024.03.14~2024.04.17(진행중)
 - 기술 스택: Java / Spring Boot / Python / Transformers / KoElectra / koGPT / react / AWS / pytorch / CSS / Ajax
-/ Kakao Login API / 
-
+/ Kakao Login API /   
+#### `핵심기능`
   - 리뷰 분석 기능
   - 챗봇 기능
   - 커뮤니티 기능
@@ -181,7 +181,19 @@ KakaoLogin REST API
 - 데이저 저장
 - Transformers 기반 KoElectra 모델로 리뷰 분석 
 - RAG와 GPT를 활용한 챗봇
+
+#### `Back-End`
+- 회원가입 기능
+- 회원 관리 기능
+- 게시글 관리 기능
+- 챗봇 기능
+
+#### `Front-End`
+- 회원가입 페이지
+- 회원 관리 페이지
+- 게시글 관리 페이지
   
+
 #### `설계 및 DB`
 - 시스템 아키텍쳐 
 - 테이블 설계 및 명세
