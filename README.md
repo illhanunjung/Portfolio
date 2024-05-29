@@ -27,7 +27,9 @@
 </details>
 - 정보처리기사 필기 (실기: 2024.07 예정)  <br>
 - 리눅스 마스터 2급 1차 (2차: 2024.09. 예정)
-  
+
+</br>
+
 ## :pushpin: 학력
 
 ### 방송통신대학교(4년)
@@ -61,9 +63,8 @@
   </br>
   
 #### `웹페이지 기술(백엔드)` 
-- JSP/Servlet을 이용한 웹페이지 개발 경험.  
-- mybatis framework를 활용한 JDBC 코드 활용.
-- Spring MVC, Spring boot 전자정부표준프레임워크
+- JSP/Servlet, JDBC 
+- Spring MVC, Spring boot, 전자정부표준프레임워크
  </br>
 
 #### `웹페이지 기술(프론트엔드)`   
