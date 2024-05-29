@@ -251,7 +251,6 @@ KakaoLogin REST API
 
 
 ## :pushpin: toy-Projects
-https://github.com/illhanunjung/VanillaJS.git
 
 1. [첫번째 프로젝트](https://github.com/illhanunjung/VanillaJS.git)
 - 프로젝트명: VanillaJS로 크롬 앱 만들기 (개인 프로젝트)
