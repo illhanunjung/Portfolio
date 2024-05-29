@@ -60,13 +60,13 @@
  </br>
 
 #### `웹페이지 기술(프론트엔드)`   
-- HTML/CSS/JS를 이용한 웹페이지 UX개발 경험.
+- HTML/CSS/JS/REACT를 이용한 웹페이지 UX개발 경험.
 - JavaScript 이용한 이벤트 처리 및 데이터 처리 기능 구현.
 - 비동기 통신 처리는 Ajax 이용하여 구현  
  </br>
 
 #### `기타 보유 기술`    
-- Oracle DB, MySQL 데이터베이스 활용 가능  
+- Oracle DB, MySQL, postgreSQL 데이터베이스 활용 가능  
 
 ## :pushpin: Contact  
 - 이메일: illhanungung@gmail.com
@@ -183,7 +183,9 @@
 - 프로젝트명: 자연어처리 기반 신발 리뷰분석 플랫폼 - 語시스턴트 (팀 프로젝트)
 - 개발 기간: 2024.03.14~2024.04.27
 - 기술 스택: Java / Spring Boot / Python / Transformers / KoElectra / koGPT / react / AWS / pytorch / CSS / Ajax
-/ Kakao Login API /   
+/ Kakao Login API /
+- [프로젝트 상세 설명](https://github.com/illhanunjung/ReadFit/blob/master/README.md)
+
 #### `핵심기능`
   - 리뷰 분석 기능
   - 챗봇 기능
