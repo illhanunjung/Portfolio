@@ -54,10 +54,9 @@
    </br>
    
 #### `기본`   
-- 프로그래밍 언어 학습(Java, Python, Javascript 등)  
-- Oracle, Mysql DBMS 사용가능    
-- Git을 활용한 형상관리    
-- 프로젝트 총 3회 수행    
+- Java, Python
+- Oracle, Mysql RDBMS  
+- Git
   </br>
 
 #### `모델링` 
@@ -67,25 +66,25 @@
     (Transformer, Bert, GPT)      
  </br>
 
-#### `클라우드 컴퓨팅` - 리눅스, AWS EC2 활용 서버 호스팅    
+#### `클라우드 컴퓨팅` 
+- 리눅스, AWS EC2 활용 서버 호스팅    
 - AWS기반 클라우드 서비스 모델 기반 CI/CD    
-- MLOps, DEVOps 환경 구축    
  </br>
 
 #### `웹페이지 기술(백엔드)` 
 - JSP/Servlet을 이용한 웹페이지 개발 경험.  
 - mybatis framework를 활용한 JDBC 코드 활용.
-- Spring MVC, 전자정부표준프레임워크를 이용한 웹페이지 개발 경험.    
+- Spring MVC, Spring boot 전자정부표준프레임워크
  </br>
 
 #### `웹페이지 기술(프론트엔드)`   
-- HTML/CSS/JS/REACT를 이용한 웹페이지 UX개발 경험.
-- JavaScript 이용한 이벤트 처리 및 데이터 처리 기능 구현.
-- 비동기 통신 처리는 Ajax 이용하여 구현  
+- HTML/CSS/Javascript/jQuery
+- REACT
+- Ajax 
  </br>
 
-#### `기타 보유 기술`    
-- Oracle DB, MySQL, postgreSQL , Docker
+#### `기타`    
+- postgreSQL , Docker
 
 ## :pushpin: Contact  
 - 이메일: illhanungung@gmail.com
