@@ -3,7 +3,8 @@
 > "다양한 경험과 기술을 바탕으로 창의적으로 문제를 해결합니다."
 
 ## :pushpin: 자격증
-- SQLD (2024.12)
+- SQLD (2024/12)
+- TOEIC :815 (2018/05/13)
 <details>
 <summary>AWS Technical Essentials</summary>
 <div markdown="1">
