@@ -3,11 +3,32 @@
 > "다양한 경험과 기술을 바탕으로 창의적으로 문제를 해결합니다."
 
 ## :pushpin: 자격증
-- SQLD
-- 리눅스 마스터 2급 1차 (2차: 2024.06.08 예정)
+- SQLD (2024.12)
+- AWS certification
+  
 - 정보처리기사 필기 (실기: 2024.07 예정)
+- 리눅스 마스터 2급 1차 (2차: 2024.09. 예정)
+
+## :pushpin: 학력
+
+### 방송통신대학교(4년)
+ - 전공: 컴퓨터과학과
+ - 기간: (2024.09 ~ 예정)
+ - 졸업 구분: 3학년 편입 예정
+   
+### 신라대학교(4년)
+ - 사범대
+ - 기간: 2011.03 ~ 2017.02
+ - 졸업 구분: 졸업
+
+ ### 선주고등학교(3년)
+ - 인문계
+ - 기간: 2008.03 ~ 2011.02
+ - 졸업 구분: 졸업
+   
 
 ## :pushpin: 교육이수
+
 ###  언어지능기반 분석서비스모델 개발자과정 (심화교육과정)
  - 기관: 스마트인재개발원
  - 기간: 2023.09.27 ~ 2024.04.17 7개월(1040시간)   
@@ -160,7 +181,7 @@
 
 ### 2. [두 번째 프로젝트](https://github.com/illhanunjung/ReadFit.git)
 - 프로젝트명: 자연어처리 기반 신발 리뷰분석 플랫폼 - 語시스턴트 (팀 프로젝트)
-- 개발 기간: 2024.03.14~2024.04.17(진행중)
+- 개발 기간: 2024.03.14~2024.04.27
 - 기술 스택: Java / Spring Boot / Python / Transformers / KoElectra / koGPT / react / AWS / pytorch / CSS / Ajax
 / Kakao Login API /   
 #### `핵심기능`
@@ -170,7 +191,7 @@
  
 #### `역할`
 - 팀장
-- PM, AI, Back-end, DB, Front-end, 
+- PM, AI, Back-end, DB, Front-end, AWS 배포
 
 #### `API`
 KakaoLogin REST API
@@ -204,4 +225,22 @@ KakaoLogin REST API
 - 일정 관리
 - 역할 배분
 
+  #### `AWS 배포`
+- FE / BE 서버 구축
+- 고정 도메인 설정
+
+
+## :pushpin: toy-Projects
+https://github.com/illhanunjung/VanillaJS.git
+
+1. [첫번째 프로젝트](https://github.com/illhanunjung/VanillaJS.git)
+- 프로젝트명: VanillaJS로 크롬 앱 만들기 (개인 프로젝트)
+- 개발 기간: 2024.05.22~2024.05.21
+- 기술 스택: javascript, css
+
+2. [두번째 프로젝트](https://github.com/illhanunjung/ReactJS.git)
+- 프로젝트명: ReactJS 영화 웹 만들기 (개인 프로젝트)
+- 개발 기간: 2024.05.29~ 
+- 기술 스택: javascript, react , css
+- 계획: 가상환경 구축, requirement.txt , (postgresSQL, java)
 
