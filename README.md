@@ -85,7 +85,7 @@
  </br>
 
 #### `기타 보유 기술`    
-- Oracle DB, MySQL, postgreSQL 데이터베이스 활용 가능  
+- Oracle DB, MySQL, postgreSQL , Docker
 
 ## :pushpin: Contact  
 - 이메일: illhanungung@gmail.com
@@ -257,6 +257,11 @@ KakaoLogin REST API
 - 프로젝트명: VanillaJS로 크롬 앱 만들기 (개인 프로젝트)
 - 개발 기간: 2024.05.22~2024.05.21
 - 기술 스택: javascript, css
+#### `핵심기능`
+  - ToDoList 기능
+  - wheather API
+  - login 기능
+ 
 
 2. [두번째 프로젝트](https://github.com/illhanunjung/ReactJS.git)
 - 프로젝트명: ReactJS 영화 웹 만들기 (개인 프로젝트)
