@@ -52,25 +52,14 @@
  - 기관: 스마트인재개발원
  - 기간: 2023.09.27 ~ 2024.04.17 7개월(1040시간)   
    </br>
-   
+
+## :pushpin:기술
 #### `기본`   
 - Java, Python
 - Oracle, Mysql RDBMS  
 - Git
   </br>
-
-#### `모델링` 
-- Python을 이용한 머신러닝 모델 제작 경험      
-- Keras 활용 딥러닝 모델 학습    
-- 자연어 처리 모델 개발(자연어처리 기초, 딥러닝 기반 자연어처리 (RNN, LSTM 등), LLM이해  
-    (Transformer, Bert, GPT)      
- </br>
-
-#### `클라우드 컴퓨팅` 
-- 리눅스, AWS EC2 활용 서버 호스팅    
-- AWS기반 클라우드 서비스 모델 기반 CI/CD    
- </br>
-
+  
 #### `웹페이지 기술(백엔드)` 
 - JSP/Servlet을 이용한 웹페이지 개발 경험.  
 - mybatis framework를 활용한 JDBC 코드 활용.
@@ -81,6 +70,18 @@
 - HTML/CSS/Javascript/jQuery
 - REACT
 - Ajax 
+ </br>
+
+ #### `클라우드 컴퓨팅` 
+- 리눅스, AWS EC2 활용 서버 호스팅    
+- AWS기반 클라우드 서비스 모델 기반 CI/CD    
+ </br>
+
+#### `모델링` 
+- Python을 이용한 머신러닝 모델 제작 경험      
+- Keras 활용 딥러닝 모델 학습    
+- 자연어 처리 모델 개발(자연어처리 기초, 딥러닝 기반 자연어처리 (RNN, LSTM 등), LLM이해  
+    (Transformer, Bert, GPT)      
  </br>
 
 #### `기타`    
