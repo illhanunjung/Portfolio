@@ -4,8 +4,26 @@
 
 ## :pushpin: 자격증
 - SQLD (2024.12)
-- AWS certification
-  
+<details>
+<summary>AWS Technical Essentials</summary>
+<div markdown="1">
+<img src="https://github.com/illhanunjung/Portfolio/assets/144203058/7c740d6a-386f-4d32-a10d-2127a93fd577">
+</div>
+</details>
+
+<details>
+<summary>The Machine Learning Pipeline on AWS</summary>
+<div markdown="1">
+<img src="https://github.com/illhanunjung/Portfolio/assets/144203058/99785e04-4c56-4ee7-9c80-199b542be375">
+</div>
+</details>
+
+<details>
+<summary>AWS AI/ML Essentials</summary>
+<div markdown="1">
+<img src="https://github.com/illhanunjung/Portfolio/assets/144203058/7d0181d4-38bf-4b11-bc1a-3a88ccb66608">
+</div>
+</details>
 - 정보처리기사 필기 (실기: 2024.07 예정)
 - 리눅스 마스터 2급 1차 (2차: 2024.09. 예정)
 
