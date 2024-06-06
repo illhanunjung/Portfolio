@@ -256,7 +256,7 @@ KakaoLogin REST API
 
 1. [첫번째 프로젝트](https://github.com/illhanunjung/VanillaJS.git)
 - 프로젝트명: VanillaJS로 크롬 앱 만들기 (개인 프로젝트)
-- 개발 기간: 2024.05.22~2024.05.21
+- 개발 기간: 2024.05.21~2024.05.22
 - 기술 스택: javascript, css
 #### `핵심기능`
   - ToDoList 기능
@@ -266,7 +266,18 @@ KakaoLogin REST API
 
 2. [두번째 프로젝트](https://github.com/illhanunjung/ReactJS.git)
 - 프로젝트명: ReactJS 영화 웹 만들기 (개인 프로젝트)
-- 개발 기간: 2024.05.29~ 
+- 개발 기간: 2024.05.29
 - 기술 스택: javascript, react , css
 - 계획: 가상환경 구축, requirement.txt , (postgresSQL, java)
 
+
+3. [세번째 프로젝트](https://github.com/illhanunjung/CakePage)
+- 프로젝트명: ReactJS 영화 웹 만들기 (개인 프로젝트)
+- 개발 기간: 2024.06.03~2024.04 
+- 기술 스택: react , noSQL(시계열), python, FastAPI  
+
+#### `핵심기능`
+  - 시계열 데이터 호출
+  - noSQL 자체 API 사용
+  - FastAPI
+  - 그래프 표현
