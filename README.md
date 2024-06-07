@@ -266,14 +266,18 @@ KakaoLogin REST API
 
 2. [두번째 프로젝트](https://github.com/illhanunjung/ReactJS.git)
 - 프로젝트명: ReactJS 영화 웹 만들기 (개인 프로젝트)
-- 개발 기간: 2024.05.29
-- 기술 스택: javascript, react , css
-- 계획: 가상환경 구축, requirement.txt , (postgresSQL, java)
+- 개발 기간: 2024.06.07~2024.06.(진행중)
+- 기술 스택: javascript, react , css, jsx
+#### `핵심기능`
+  - 파일 업로드 기능 / 정규화
+  - antdesign 라이브러리
+  - 검색기능
+  - 테이블 렌더링 기능
 
 
 3. [세번째 프로젝트](https://github.com/illhanunjung/CakePage)
-- 프로젝트명: ReactJS 영화 웹 만들기 (개인 프로젝트)
-- 개발 기간: 2024.06.03~2024.04 
+- 프로젝트명: 만들기 (개인 프로젝트)
+- 개발 기간: 2024.06.03~2024.06.04 
 - 기술 스택: react , noSQL(시계열), python, FastAPI  
 
 #### `핵심기능`
