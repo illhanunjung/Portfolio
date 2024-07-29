@@ -5,8 +5,7 @@
 ## :pushpin: 자격증
 - SQLD (2024/12)
 - TOEIC :815 (2018/05/13)
-- 정보처리기사 필기
-- 리눅스 마스터 1차
+
 <details>
 <summary>AWS Technical Essentials</summary>
 <div markdown="1">
@@ -27,7 +26,7 @@
 <img src="https://github.com/illhanunjung/Portfolio/assets/144203058/7d0181d4-38bf-4b11-bc1a-3a88ccb66608">
 </div>
 </details>
-- 정보처리기사 필기 (실기: 2024.07 예정)  <br>
+- 정보처리기사 필기 (실기: 2024.11 예정)  <br>
 - 리눅스 마스터 2급 1차 (2차: 2024.09. 예정)
 
 </br>
