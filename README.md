@@ -5,6 +5,8 @@
 ## :pushpin: 자격증
 - SQLD (2024/12)
 - TOEIC :815 (2018/05/13)
+- 정보처리기사 필기
+- 리눅스 마스터 1차
 <details>
 <summary>AWS Technical Essentials</summary>
 <div markdown="1">
